@@ -1,5 +1,5 @@
 source "http://rubygems.org"
-gem "rails", ">= 3.0.0", "<3.2.0"
+gem "rails", ">= 3.1.0"
 gem "rmagick", :platforms => :ruby
 gem "rmagick4j", :platforms => :jruby
 
